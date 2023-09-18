@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\InheritancePractice1\InheritancePractice1\InheritancePractice1\bin\Debug\InheritancePractice1.exe.config
+C:\GitHub Project\C#\InheritancePractice1\InheritancePractice1\InheritancePractice1\bin\Debug\InheritancePractice1.exe
+C:\GitHub Project\C#\InheritancePractice1\InheritancePractice1\InheritancePractice1\bin\Debug\InheritancePractice1.pdb
+C:\GitHub Project\C#\InheritancePractice1\InheritancePractice1\InheritancePractice1\obj\Debug\InheritancePractice1.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\InheritancePractice1\InheritancePractice1\InheritancePractice1\obj\Debug\InheritancePractice1.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\InheritancePractice1\InheritancePractice1\InheritancePractice1\obj\Debug\InheritancePractice1.exe
+C:\GitHub Project\C#\InheritancePractice1\InheritancePractice1\InheritancePractice1\obj\Debug\InheritancePractice1.pdb
